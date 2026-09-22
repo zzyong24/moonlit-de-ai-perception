@@ -1,0 +1,5 @@
+interface:
+  display_name: "月明·去 AI 味"
+  short_description: "按月明表达规则清理文案中的 AI 腔和空泛修饰"
+  brand_color: "#39EC88"
+  default_prompt: "使用 $moonlit-de-ai-perception 审读并改写这份文案，保留事实与原意。"
