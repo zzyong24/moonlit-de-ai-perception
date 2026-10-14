@@ -47,6 +47,8 @@ description: 审读已有中文文案，清理空泛修饰、机械衔接与模�
 
 按问题读取：[高频表达](references/banned-words.md)、[结构问题](references/structures.md)、[改写示例](references/examples.md)。示例只解释判断，不是统一句式。
 
+删掉 AI 腔之后句子变空、变平时，按 `moonlit-business-copywriter` 的 `references/writing-toolkit.md` 做“加法”（具体数字、现场细节、反差、本人原话等），先删后加；依赖缺失时只做删改并说明。
+
 ## 最后检查
 
 - 人物、数字、因果和不确定程度是否仍与材料一致。
